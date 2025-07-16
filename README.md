@@ -13,7 +13,7 @@ Features:
  - Movie browsing & ticket booking
  - Real-time updates & responsive theming (light/dark)
 
-LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7351343488975740929/
+Video: https://www.linkedin.com/feed/update/urn:li:activity:7351343488975740929/
 
 AI-assisted development using ChatGPT for:
  - Feature planning
