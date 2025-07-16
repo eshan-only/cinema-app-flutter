@@ -1,0 +1,2 @@
+C:/Users/Admin/Downloads/backUPfiles/backup_files/cinema_app/android/app/.cxx/RelWithDebInfo/3252c5e4/x86/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Downloads/backUPfiles/backup_files/cinema_app/android/app/.cxx/RelWithDebInfo/3252c5e4/x86/CMakeFiles/rebuild_cache.dir

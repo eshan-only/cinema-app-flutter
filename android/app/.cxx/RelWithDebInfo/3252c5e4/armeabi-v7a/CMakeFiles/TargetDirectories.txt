@@ -1,0 +1,2 @@
+C:/Users/Admin/Downloads/backUPfiles/backup_files/cinema_app/android/app/.cxx/RelWithDebInfo/3252c5e4/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Downloads/backUPfiles/backup_files/cinema_app/android/app/.cxx/RelWithDebInfo/3252c5e4/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,15 @@
+flutter_native_splash:
+  color: "#FFFFFF"                # Background color for the splash screen
+  color_dark: "#272727"           # Background color in Dart
+  image: assets/logos/pause_light.png  # Default splash image
+  image_dark: assets/logos/pause_dark.png  # Light theme splash image
+
+  android_12:
+    color: "#FFFFFF"              # Background color for Android 12+
+    color_dark: "#272727"         # Background color in Dart for Android 12+
+    image: assets/logos/pause_light.png  # Dark theme image for Android 12+
+    image_dark: assets/logos/pause_dark.png  # Light theme image for Android 12+
+
+  ios: true                        # Set to true to include iOS support
+  android: true                    # Set to true to include Android support
+  web: false                       # Set to true if you want to include web support
