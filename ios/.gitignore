@@ -1,3 +1,46 @@
+# Flutter/Dart-specific
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+flutter_export_environment.sh
+
+# Firebase
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+web/firebase-config.js
+
+# Secrets
+*.jks
+*.keystore
+*.pem
+*.p12
+*.key
+.env
+.env.*
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# macOS & Windows
+macos/Flutter/ephemeral/
+windows/flutter/ephemeral/
+
+# iOS
+ios/Pods/
+Podfile.lock
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/Flutter/flutter_assets/
+
+# Xcode
 **/dgph
 *.mode1v3
 *.mode2v3
@@ -10,24 +53,16 @@
 **/.vagrant/
 **/DerivedData/
 Icon?
-**/Pods/
-**/.symlinks/
 profile
 xcuserdata
+**/.symlinks/
 **/.generated/
-Flutter/App.framework
-Flutter/Flutter.framework
-Flutter/Flutter.podspec
-Flutter/Generated.xcconfig
-Flutter/ephemeral/
-Flutter/app.flx
-Flutter/app.zip
-Flutter/flutter_assets/
-Flutter/flutter_export_environment.sh
+
+# Flutter iOS Project
 ServiceDefinitions.json
 Runner/GeneratedPluginRegistrant.*
 
-# Exceptions to above rules.
+# Exceptions (if needed)
 !default.mode1v3
 !default.mode2v3
 !default.pbxuser
